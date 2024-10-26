@@ -1,5 +1,6 @@
-### Indhu Priya
-### 24007533
+### Name: Indhu Priya
+### Reg.no: 24007533
+
 # Experiment 1  Led control using Arduino
 
 ## AIM
@@ -67,7 +68,11 @@ Weighing Machines </br>
 <img src="https://github.com/user-attachments/assets/d6bc5f49-f030-4b28-846f-a76a1d69d5dd" width="300" height="300"  />
 
 ## OUTPUT
+# Led Off
+
 <img src="https://github.com/user-attachments/assets/e9018662-ea7f-4fb1-ba29-e27abd2c7668" width="300" height="300"  />
+
+# Led On
 <img src="https://github.com/user-attachments/assets/9cc8d61b-86e0-4e59-bc30-83b3ef2c24ec" width="300" height="300"  />
 
 
