@@ -73,7 +73,9 @@ Weighing Machines </br>
 <img src="https://github.com/user-attachments/assets/e9018662-ea7f-4fb1-ba29-e27abd2c7668" width="600" height="500"  />
 
 # Led On
-<img src="https://github.com/user-attachments/assets/9cc8d61b-86e0-4e59-bc30-83b3ef2c24ec" width="600" height="500"  />
+
+<img src="https://github.com/user-attachments/assets/b3772b6a-d4a8-4a7c-a176-5180de2f93b6" width="600" height="500"  />
+
 
 
 ## RESULT
